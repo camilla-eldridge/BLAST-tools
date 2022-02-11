@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+"""
+@author camilla eldridge 
+"""
+
 from Bio import SeqIO
 from Bio.Blast import NCBIWWW
 import sys
